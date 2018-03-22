@@ -1,0 +1,2 @@
+info.txt
+This is the informational (A.K.A. 'About' page for the program)

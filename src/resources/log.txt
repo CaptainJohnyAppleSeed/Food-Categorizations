@@ -1,0 +1,7 @@
+02-16-2018 13:45:30 fitzpats: logged in.
+02-16-2018 13:46:02 fitzpats:made a backup of data.xls
+02-16-2018 13:47:37 fitzpats:Opened file data
+02-16-2018 13:47:37 fitzpats: logged out.
+02-16-2018 14:14:23 nam: logged in.
+02-16-2018 14:19:05 nam: ran new Calculation on FSS FY17 Purchases 2018 2 16.xls.
+02-16-2018 14:23:23 nam: logged out.
